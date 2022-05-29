@@ -15,8 +15,11 @@ assignees: ''
 
 #### Useful skills:
 
-<!-- (For example, “C++11 std::thread”, “Qt5 GUI and async GUI design” or “basic understanding of Bitcoin mining and the Bitcoin Core RPC interface”.) -->
+<!-- (For example, “C++11 std::thread”, “Qt5 GUI and async GUI design” or “basic understanding of Bitcoin mining (same as Sceptre) and the Bitcoin Core RPC interface”.) -->
 
 #### Want to work on this issue?
 
-For guidance on contributing, please read [CONTRIBUTING.md](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md) before opening your pull request.
+Contributing to Sceptre
+============================
+The Sceptre project is an open cotributor model and its SceptreXpress team gladly welcomes anyone willing to improve on its cryptocurrency through patches, testing, and whatsoever by pull requests, etc. 
+We'd love upgrades, ideas, comments, feedbacks, critics as we all know that with time or as the earth gets older, knowledge will always increase and the betterment of our lives as human beings will always depend on us.
