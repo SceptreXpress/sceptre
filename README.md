@@ -13,3 +13,4 @@ Discord: Sceptre Xpress#9899
 Twitter: @SceptreXpress
 Note: We look forward to having you as one of our contributors for the improvement of the Sceptre cryptocurrency and its betterment for the public. We also desire to work with you on any of our projects. 
 Future updates will be released to the public as soon as they are out.
+Pls also note that since Sceptre is a fork of Bitcoin, you might find it's processes very much similar.
